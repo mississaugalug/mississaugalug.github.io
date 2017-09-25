@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mississaugalug.github.io/meetings/</loc>
+    <lastmod>2017-09-25T18:00:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/about-linux/</loc>
+    <lastmod>2017-09-25T17:43:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/irc/</loc>
+    <lastmod>2017-09-25T17:20:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/mailing-list/</loc>
+    <lastmod>2017-09-25T17:20:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/home/</loc>
+    <lastmod>2017-09-25T17:01:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/about/</loc>
+    <lastmod>2017-09-25T15:07:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/</loc>
+    <lastmod>2017-09-25T18:00:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mississaugalug.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
