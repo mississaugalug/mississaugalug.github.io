@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Mississauga LUG</title>
-    <link>http://localhost/</link>
+    <link>https://mississaugalug.github.io/</link>
     <description>Recent content in Index on Mississauga LUG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Sep 2017 19:26:55 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mississaugalug.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meetings</title>
-      <link>http://localhost/meetings/</link>
+      <link>https://mississaugalug.github.io/meetings/</link>
       <pubDate>Mon, 25 Sep 2017 18:00:31 -0400</pubDate>
       
-      <guid>http://localhost/meetings/</guid>
+      <guid>https://mississaugalug.github.io/meetings/</guid>
       <description>Meetings Please note that we are currently not meeting every month. Please check (or contact us through) our mailing-list.</description>
     </item>
     
     <item>
       <title>About Linux</title>
-      <link>http://localhost/about-linux/</link>
+      <link>https://mississaugalug.github.io/about-linux/</link>
       <pubDate>Mon, 25 Sep 2017 17:43:02 -0400</pubDate>
       
-      <guid>http://localhost/about-linux/</guid>
+      <guid>https://mississaugalug.github.io/about-linux/</guid>
       <description>What is Linux Text taken from http://linux.com/.
  Linux is, in simplest terms, an operating system. It is the software on a computer that enables applications and the computer operator to access the devices on the computer to perform desired functions. The operating system (OS) relays instructions from an application to, for instance, the computer&amp;rsquo;s processor. The processor performs the instructed task, then sends the results back to the application via the operating system.</description>
     </item>
     
     <item>
       <title>Irc</title>
-      <link>http://localhost/irc/</link>
+      <link>https://mississaugalug.github.io/irc/</link>
       <pubDate>Mon, 25 Sep 2017 17:20:33 -0400</pubDate>
       
-      <guid>http://localhost/irc/</guid>
+      <guid>https://mississaugalug.github.io/irc/</guid>
       <description>IRC Channel Join us in our IRC channel:
  Server: irc.freenode.net Channel: #mlug-ca One-click: irc://irc.freenode.net/mlug-ca Web Client: https://webchat.freenode.net/?channels=mlug-ca  Here&amp;rsquo;s a list of clients in case you need one - What IRC clients are available</description>
     </item>
     
     <item>
       <title>Mailing List</title>
-      <link>http://localhost/mailing-list/</link>
+      <link>https://mississaugalug.github.io/mailing-list/</link>
       <pubDate>Mon, 25 Sep 2017 17:20:26 -0400</pubDate>
       
-      <guid>http://localhost/mailing-list/</guid>
+      <guid>https://mississaugalug.github.io/mailing-list/</guid>
       <description>Mailing List We are working on migrating our mailing list. For now, our mail archive can be found at The Mail Archive via the link below:
 https://www.mail-archive.com/mailing-list@mississaugalug.ca/</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://localhost/home/</link>
+      <link>https://mississaugalug.github.io/home/</link>
       <pubDate>Mon, 25 Sep 2017 17:01:53 -0400</pubDate>
       
-      <guid>http://localhost/home/</guid>
+      <guid>https://mississaugalug.github.io/home/</guid>
       <description>Welcome to MLUG! The Official Linux User Group for Mississauga Mississauga LUG (also known as MUMU - Mississauga Ubuntu MeetUp) is a group of Linux enthusiasts who meet once a month in the Mississauga area (Ontario, Canada) to talk about different topics, usually related to Linux. Anyone is welcome to attend our meetings (please check our events page for dates and location).
 We hope you find the information you came looking for, and if you don’t, feel free to ask questions in our forum or mailing list.</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://localhost/about/</link>
+      <link>https://mississaugalug.github.io/about/</link>
       <pubDate>Mon, 25 Sep 2017 15:07:54 -0400</pubDate>
       
-      <guid>http://localhost/about/</guid>
+      <guid>https://mississaugalug.github.io/about/</guid>
       <description>About MLUG Mississauga LUG is a group of Linux users that meet once a month in a pub in Mississauga to share a beer, exchange information and talk just about anything.
 We welcome everyone, from the new user to the Linux veteran, including any other Unix-like OS user.
 Feel free to bring your laptop or any questions you may have. We&amp;rsquo;ll be more than glad to help you.
